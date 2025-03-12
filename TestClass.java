@@ -1,4 +1,4 @@
-package myprojects.selenium;
+
 
 public class TestClass {
 
